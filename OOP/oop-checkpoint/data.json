@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "motorcycle gear jacket",
+    "img_url":
+      "https://m.media-amazon.com/images/I/712fflwzDqL.jpg",
+    "price": 300,
+    "review": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus placeat,unde quod laudantium cum velit nam ea ullam fugiat quidem?"
+  },
+  {
+    "id": 2,
+    "title": "Schuberth C3 Lite Helmet",
+    "img_url":
+      "https://billyscrashhelmets.com/wp-content/uploads/2012/10/schuberth-c3-silver-helmet.jpg",
+    "price": 349,
+    "review": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus placeat,unde quod laudantium cum velit nam ea ullam fugiat quidem?"
+  },
+  {
+    "id": 3,
+    "title": "Racing off-road motorbike Boots",
+    "img_url":
+      "https://m.media-amazon.com/images/I/91KoMXbTVSL._AC_UY1000_.jpg",
+    "price": 100,
+    "review": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus placeat, unde quod laudantium cum velit nam ea ullam fugiat quidem?"
+  },
+  {
+    "id": 4,
+    "title": "Avon Cobra Chrome AV91 100/90-19 57V Tire",
+    "img_url":
+      "https://cdn11.bigcommerce.com/s-nhcblq53p5/images/stencil/500x659/products/43811/110660/4120012-avon-av91-cobra-chrome-120-70zr-19-60w-front-motorcycle-3__36473.1652114307.png",
+    "price": 159.33,
+    "review": 3,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus placeat, unde quod laudantium cum velit nam ea ullam fugiat quidem?"
+  },
+  {
+    "id": 5,
+    "title": "Motorcycle Boots Stylmartin Core BB",
+    "img_url":
+      "https://www.insportline.eu/img312530/1200/633?fill=1",
+    "price": 145.8,
+    "review": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus placeat, unde quod laudantium cum velit nam ea ullam fugiat quidem?"
+  },
+  {
+    "id": 6,
+    "title": "Studds SHIFTER D2 Full Face Helmet",
+    "img_url":
+      "https://kalpurze.com/img/Studds-Drifter-D2-Yellow-N91-Full-Face-Helmet.jpg",
+    "price": 67,
+    "review": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus placeat, unde quod laudantium cum velit nam ea ullam fugiat quidem?"
+  },
+  {
+    "id": 7,
+    "title": "Motorcycle Knee Pads Moto Racing Protective",
+    "img_url":
+      "https://m.media-amazon.com/images/I/614NbraDIDL._AC_UF1000,1000_QL80_.jpg",
+    "price": 105,
+    "review": 4,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus placeat, unde quod laudantium cum velit nam ea ullam fugiat quidem?"
+  },
+  {
+    "id": 8,
+    "title": "motorcycle gloves racing gloves",
+    "img_url":
+      "https://www.4sr.com/files/4sr/images/eshop/size5-16415697392189-232-stingray-race-spec-grey.jpg",
+    "price": 30.55,
+    "review": 5,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus placeat, unde quod laudantium cum velit nam ea ullam fugiat quidem?"
+  }
+]
